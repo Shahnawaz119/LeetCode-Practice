@@ -29,19 +29,19 @@ public:
         if(k==0 || k==len){
             return head;
         }
-        ListNode* temp1=head;
+        ListNode* curr=head;
         for(int i=1; i<(len-k); i++){
-            temp1=temp1->next;
+            curr=curr->next;
         }
-        ListNode* newHead=temp1->next;
-        temp1->next=NULL;
-        ListNode* nhead=newHead;
-        while(nhead->next!=NULL){
-            nhead=nhead->next;
+        ListNode* newHead=curr->next;
+        curr->next=NULL;
+        ListNode* newCurr=newHead;
+        while(newCurr->next!=NULL){
+            newCurr=newCurr->next;
         }
-        nhead->next=head;
+        newCurr->next=head;
         head=newHead;
-        return head;
-        
+        return newHead;
     }
+
 };
