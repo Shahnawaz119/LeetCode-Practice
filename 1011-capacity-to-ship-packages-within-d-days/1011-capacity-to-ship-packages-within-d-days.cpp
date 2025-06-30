@@ -1,15 +1,14 @@
 class Solution {
 public:
-    bool possible(vector<int> &arr,int capacity,int days){
+    bool helper(vector<int> &weights,int mid,int days){
         int currDay=1;
         int currWeight=0;
-        for(int weight:arr){
-            if(currWeight+weight>capacity){
+        for(int weight:weights){
+            if(weight+currWeight>mid){
                 currDay++;
                 currWeight=0;
             }
             currWeight+=weight;
-
         }
         if(days>=currDay){
             return true;
@@ -19,14 +18,14 @@ public:
     int shipWithinDays(vector<int>& weights, int days) {
         int left=INT_MIN;
         int right=0;
-        for(int i=0; i<weights.size() ; i++){
+        for(int i=0; i<weights.size(); i++){
             left=max(left,weights[i]);
-            right=right+weights[i];
+            right+=right+weights[i];
         }
-        int ans=0;
+        long ans=0;
         while(left<=right){
-            int mid=(left+right)/2;
-            if(possible(weights,mid,days)){
+            int mid=left+(right-left)/2;
+            if(helper(weights,mid,days)){
                 ans=mid;
                 right=mid-1;
             }else{
