@@ -11,23 +11,26 @@
 class Solution {
 public:
     ListNode* marge(ListNode* a,ListNode* b){
-        ListNode* temp=new ListNode(100);
-        ListNode* c=temp;
+        if(a==NULL && b==NULL){
+            return NULL;
+        }
+        ListNode* temp=new ListNode(0);
+        ListNode* start=temp;
         while(a!=NULL && b!=NULL){
             if(a->val<=b->val){
-                c->next=a;
+                start->next=a;
+                start=start->next;
                 a=a->next;
-                c=c->next;
             }else{
-                c->next=b;
+                start->next=b;
+                start=start->next;
                 b=b->next;
-                c=c->next;
             }
         }
         if(a!=NULL){
-            c->next=a;
+            start->next=a;
         }else{
-            c->next=b;
+            start->next=b;
         }
         return temp->next;
     }
@@ -44,6 +47,5 @@ public:
             lists.push_back(newNode);
         }
         return lists[0];
-
     }
 };
