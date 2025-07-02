@@ -10,7 +10,7 @@
  */
 class Solution {
 public:
-    ListNode* partition(ListNode* head, int x) {
+    ListNode* partition(ListNode* head, int x) {    
         ListNode* before=new ListNode(0);
         ListNode* after=new ListNode(0);
         ListNode* before_head=before;
@@ -28,6 +28,5 @@ public:
         after->next=NULL;
         before->next=after_head->next;
         return before_head->next;
-
     }
 };
