@@ -1,23 +1,24 @@
 class Solution {
 public:
-    bool palindrome(string str,int start,int end){
+    bool isPalindrome(string s,int start,int end){
         while(start<end){
-            if(str[start]!=str[end]){
+            if(s[start]!=s[end]){
                 return false;
             }
             start++;
             end--;
-        } 
-        return true;   
+        }
+        return true;
     }
-    void find(vector<vector<string>> &ans,vector<string> temp,string s,int start){
+    void solve(string s,vector<string>&temp,vector<vector<string>>&ans,int start){
         if(start==s.length()){
             ans.push_back(temp);
+            return;
         }
         for(int i=start; i<s.size(); i++){
-            if(palindrome(s,start,i)){
+            if(isPalindrome(s,start,i)){
                 temp.push_back(s.substr(start,i-start+1));
-                find(ans,temp,s,i+1);
+                solve(s,temp,ans,i+1);
                 temp.pop_back();
             }
         }
@@ -25,7 +26,7 @@ public:
     vector<vector<string>> partition(string s) {
         vector<vector<string>> ans;
         vector<string> temp;
-        find(ans,temp,s,0);
+        solve(s,temp,ans,0);
         return ans;
     }
 };
