@@ -5,13 +5,13 @@ public:
             ans.push_back(temp);
             return;
         }
-        if(start>9 || k==0 || n<=0){
+        if(start>9 || k==0 || n<0){
             return;
         }
         temp.push_back(start);
-        solve(k-1,n-start,temp,ans,start+1);
+        solve(k-1,n-start,temp,ans,start+1); //current include number
         temp.pop_back();
-        solve(k,n,temp,ans,start+1);
+        solve(k,n,temp,ans,start+1); // backtrack and exclude current
     }
     vector<vector<int>> combinationSum3(int k, int n) {
         vector<vector<int>>ans;
