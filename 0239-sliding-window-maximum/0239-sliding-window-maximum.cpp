@@ -8,7 +8,7 @@ public:
         }
         ans.push_back(pq.top().first);
         for(int i=k; i<nums.size(); i++){
-            while(!pq.size() && pq.top().second<=(i-k)){
+            while(!pq.empty() && pq.top().second<=(i-k)){
                 pq.pop();
             }
             pq.push(make_pair(nums[i],i));
