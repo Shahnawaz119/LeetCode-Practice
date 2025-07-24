@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void gen(int n,vector<string>&ans,int op,int cl,string str){
+    void gen(int n,vector<string> &ans,int op,int cl,string str){
         if(str.length()==2*n){
             ans.push_back(str);
             return;
@@ -16,6 +16,5 @@ public:
         vector<string> ans;
         gen(n,ans,0,0,"");
         return ans;
-
     }
 };
