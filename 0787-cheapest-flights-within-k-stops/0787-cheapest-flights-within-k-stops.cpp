@@ -5,16 +5,16 @@ public:
         int u;
         int cost;
         int stops;
-        Info(int u, int cost,int stops){
+        Info(int u,int cost,int stops){
             this->u=u;
             this->cost=cost;
             this->stops=stops;
         }
     };
     int findCheapestPrice(int n, vector<vector<int>>& flights, int src, int dst, int k) {
-        queue<Info> q;
         vector<int> dist(n,INT_MAX);
         dist[src]=0;
+        queue<Info> q;
         q.push(Info(src,0,-1));
         while(!q.empty()){
             Info curr=q.front();
