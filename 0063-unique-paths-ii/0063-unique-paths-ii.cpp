@@ -1,29 +1,22 @@
 class Solution {
 public:
-    int t[101][101];
-    int totalWay(vector<vector<int>> &arr ,int i,int j,int n,int m){
-        if(i>=n || j>=m || arr[i][j]==1){
+    int uniquePathsWithObstacles(vector<vector<int>>& arr) {
+        int n=arr.size();
+        int m=arr[0].size();
+        if(arr[0][0]==1 || arr[n-1][m-1]==1){
             return 0;
         }
-        if(t[i][j]!=-1){
-            return t[i][j];
+        vector<vector<int>> dp(n+1,vector<int> (m+1,0));
+        dp[1][0]=1;
+        for(int i=1; i<=n; i++){
+            for(int j=1; j<=m; j++){
+                if(arr[i-1][j-1]==1){
+                    dp[i][j]=0;
+                }else{
+                    dp[i][j]=dp[i-1][j]+dp[i][j-1];
+                }
+            }
         }
-        if(i==n-1 && j==m-1){
-            return 1;
-        }
-        int way1=totalWay(arr,i,j+1,n,m);
-        int way2=totalWay(arr,i+1,j,n,m);
-        t[i][j]=way1+way2;
-        return t[i][j];
-    }
-    int uniquePathsWithObstacles(vector<vector<int>>& obstacleGrid) {
-        int n=obstacleGrid.size();
-        int m=obstacleGrid[0].size();
-        memset(t,-1,sizeof(t));
-        if(obstacleGrid[0][0]==1 || obstacleGrid[n-1][m-1]){
-            return 0;
-        }
-        int result=totalWay(obstacleGrid,0,0,n,m);
-        return result;
+        return dp[n][m];
     }
 };
