@@ -1,19 +1,18 @@
 class Solution {
 public:
-    int uniquePaths(int m, int n) {
-    //    int t=n+m-2;
-    //    int k=min(m-1,n-1);
-    //    long result=1;
-    //    for(int i=1; i<=k; i++){
-    //     result=result*(t-k+i)/i;
-    //    } 
-    //    return result;
-        vector<vector<int>> arr(m,vector<int> (n,1));
-        for(int i=1; i<m; i++){
-            for(int j=1; j<n; j++){
-                arr[i][j]=arr[i-1][j]+arr[i][j-1];
-            }
+    int helper(int i,int j,int m,int n){
+        if(i>m || j>n){
+            return 0;
         }
-        return arr[m-1][n-1];
+        if(i==m && j==n){
+            return 1;
+        }
+        int rightWay=helper(i,j+1,m,n);
+        int downWay=helper(i+1,j,m,n);
+        return rightWay+downWay;
+
+    }
+    int uniquePaths(int m, int n) {
+        return helper(0,0,m-1,n-1);
     }
 };
