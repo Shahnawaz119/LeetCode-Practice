@@ -18,13 +18,18 @@ public:
         currSum=currSum*10+root->val;
         if(root->left==NULL && root->right==NULL){
             sum+=currSum;
+            return;
         }
         solve(root->left,currSum,sum);
         solve(root->right,currSum,sum);
     }
     int sumNumbers(TreeNode* root) {
+        if(root==NULL){
+            return 0;
+        }
         int sum=0;
         solve(root,0,sum);
         return sum;
+
     }
 };
