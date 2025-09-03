@@ -16,9 +16,10 @@ public:
             return false;
         }
         if(root->left==NULL && root->right==NULL){
-            return targetSum==root->val;
+            return root->val==targetSum;
         }
-        int remaininigSum=targetSum-root->val;
-        return hasPathSum(root->left,remaininigSum) || hasPathSum(root->right,remaininigSum);
+        int remainingSum=targetSum-root->val;
+        return  hasPathSum(root->left,remainingSum) || hasPathSum(root->right,remainingSum);
+        
     }
 };
