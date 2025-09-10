@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    bool validBST(TreeNode* root,TreeNode* min,TreeNode* max){
+    bool solve(TreeNode* root,TreeNode* min,TreeNode* max){
         if(root==NULL){
             return true;
         }
@@ -20,10 +20,10 @@ public:
         }
         if(max!=NULL && root->val>=max->val){
             return false;
-        }   
-        return validBST(root->left,min,root) && validBST(root->right,root,max);
+        }
+        return solve(root->left,min,max) && solve(root->right,root,max);
     }
     bool isValidBST(TreeNode* root) {
-        return validBST(root,NULL,NULL);
+        return solve(root,NULL,NULL);
     }
 };
