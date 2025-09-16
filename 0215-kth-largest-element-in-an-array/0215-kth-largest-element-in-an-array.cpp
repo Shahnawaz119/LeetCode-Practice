@@ -3,6 +3,7 @@ public:
     int findKthLargest(vector<int>& nums, int k) {
         priority_queue<int> pq(nums.begin(),nums.end());
         while(k>1){
+            int top=pq.top();
             pq.pop();
             k--;
         }
