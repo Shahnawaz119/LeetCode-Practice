@@ -13,7 +13,7 @@ public:
         sort(nums.begin(),nums.end(),myComp);
 
         if(nums[0]==0){
-            return '0';
+            return "0";
         }
 
         string result="";
