@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/string-compression">443. String Compression</a></h2><h3>Medium</h3><hr><p>Given an array of characters <code>chars</code>, compress it using the following algorithm:</p>
+<h2><a href="https://leetcode.com/problems/string-compression/?envType=study-plan-v2&envId=leetcode-75">443. String Compression</a></h2><h3>Medium</h3><hr><p>Given an array of characters <code>chars</code>, compress it using the following algorithm:</p>
 
 <p>Begin with an empty string <code>s</code>. For each group of <strong>consecutive repeating characters</strong> in <code>chars</code>:</p>
 
@@ -12,6 +12,8 @@
 <p>After you are done <strong>modifying the input array,</strong> return <em>the new length of the array</em>.</p>
 
 <p>You must write an algorithm that uses only constant extra space.</p>
+
+<p><strong>Note: </strong>The characters in the array beyond the returned length do not matter and should be ignored.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
