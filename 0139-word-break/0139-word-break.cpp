@@ -1,25 +1,29 @@
 class Solution {
 public:
-    bool help(int i,string &s,set<string> &st){
+    bool help(int i,string &s,set<string> &st,vector<int> &dp){
         if(i==s.length()){
             return 1;
+        }
+        if(dp[i]!=-1){
+            return dp[i];
         }
         string temp="";
         for(int j=i; j<s.size(); j++){
             temp+=s[j];
             if(st.find(temp)!=st.end()){
-                if(help(j+1,s,st)){
-                    return true;
+                if(help(j+1,s,st,dp)){
+                    return dp[i]=true;
                 }
             }
         }
-        return false;
+        return dp[i] = false;
     }
     bool wordBreak(string s, vector<string>& wordDict) {
         set<string> st;
         for(int i=0; i<wordDict.size(); i++){
             st.insert(wordDict[i]);
         }
-        return help(0,s,st);
+        vector<int> dp(s.size(),-1);
+        return help(0,s,st,dp);
     }
 };
