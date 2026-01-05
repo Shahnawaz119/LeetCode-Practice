@@ -15,7 +15,7 @@ public:
                 }
             }
             if(divisor>4){
-                break;
+                return 0;
             }
         }
         if(divisor==4){
