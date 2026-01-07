@@ -12,13 +12,13 @@
 class Solution {
 public:
     long long kthLargestLevelSum(TreeNode* root, int k) {
-        priority_queue<int> pq;
+        priority_queue<long long> pq;
         queue<TreeNode*> que;
         que.push(root);
         int countLevel=0;
         while(!que.empty()){
             int size=que.size();
-            int sum=0;
+            long long sum=0;
             while(size--){
                 TreeNode* temp=que.front();
                 que.pop();
