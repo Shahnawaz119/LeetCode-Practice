@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool helper(vector<int>& piles,int mid,int h){
-        int hours=0;
+        long long hours=0;
         for(int i=0; i<piles.size(); i++){
             hours+=(long)(piles[i]+mid-1)/(long)mid;
         }
