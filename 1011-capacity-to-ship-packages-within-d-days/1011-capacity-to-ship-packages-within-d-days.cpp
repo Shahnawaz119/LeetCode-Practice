@@ -20,7 +20,7 @@ public:
         int right=0;
         for(int i=0; i<weights.size(); i++){
             left=max(left,weights[i]);
-            right+=right+weights[i];
+            right+=weights[i];
         }
         long ans=0;
         while(left<=right){
