@@ -1,12 +1,12 @@
 class Solution {
 public:
     bool isSafe(vector<string>&board,int row,int col,int n){
-        for(int j=0; j<n; j++){
+        for(int j=col-1; j>=0; j--){
             if(board[row][j]=='Q'){
                 return false;
             }
         }
-        for(int i=0; i<row; i++){
+        for(int i=row-1; i>=0; i--){
             if(board[i][col]=='Q'){
                 return false;
             }
@@ -16,16 +16,15 @@ public:
                 return false;
             }
         }
-        for(int i=row-1, j=col+1; i>=0 && j<n; i--,j++){
+        for(int i=row-1,j=col+1; i>=0 && j<n; i--,j++){
             if(board[i][j]=='Q'){
                 return false;
             }
         }
         return true;
-        
     }
-    void nQueen(vector<string>&board,int row,vector<vector<string>>&ans,int n){
-        if(n==row){
+    void nQueen(vector<string> &board,int row,vector<vector<string>>&ans,int n){
+        if(row==n){
             ans.push_back(board);
             return;
         }
