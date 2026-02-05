@@ -1,6 +1,7 @@
 class Solution {
 public:
     int lengthOfLIS(vector<int>& nums) {
+        unordered_set<int> s(nums.begin(),nums.end());
         vector<int> nums1(s.begin(),s.end());
         sort(nums1.begin(),nums1.end());
         int n=nums.size();
@@ -13,7 +14,7 @@ public:
                 }else{
                     dp[i][j]=max(dp[i-1][j],dp[i][j-1]);
                 }
-            } 
+            }
         }
         return dp[n][m];
     }
