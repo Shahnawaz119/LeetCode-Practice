@@ -4,20 +4,19 @@ public:
         int n=nums.size();
         int maxLen=INT_MIN;
         for(int i=0; i<n; i++){
-            unordered_set<int> evenSet;
-            unordered_set<int> oddSet;
+            unordered_set<int> seenEven,seenOdd;
             if(nums[i]%2==0){
-                evenSet.insert(nums[i]);
+                seenEven.insert(nums[i]);
             }else{
-                oddSet.insert(nums[i]);
+                seenOdd.insert(nums[i]);
             }
             for(int j=i+1; j<n; j++){
                 if(nums[j]%2==0){
-                    evenSet.insert(nums[j]);
+                    seenEven.insert(nums[j]);
                 }else{
-                    oddSet.insert(nums[j]);
+                    seenOdd.insert(nums[j]);
                 }
-                if(evenSet.size()==oddSet.size()){
+                if(seenEven.size()==seenOdd.size()){
                     maxLen=max(maxLen,j-i+1);
                 }
             }
