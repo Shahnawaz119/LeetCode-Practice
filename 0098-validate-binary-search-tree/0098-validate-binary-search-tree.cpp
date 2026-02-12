@@ -12,9 +12,7 @@
 class Solution {
 public:
     bool solve(TreeNode* root,TreeNode* min,TreeNode* max){
-        if(root==NULL){
-            return true;
-        }
+        if(root==NULL) return true;
         if(min!=NULL && root->val<=min->val){
             return false;
         }
