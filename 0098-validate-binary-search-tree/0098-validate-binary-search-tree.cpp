@@ -21,7 +21,7 @@ public:
         if(max!=NULL && root->val>=max->val){
             return false;
         }
-        return solve(root->left,min,max) && solve(root->right,root,max);
+        return solve(root->left,min,root) && solve(root->right,root,max);
     }
     bool isValidBST(TreeNode* root) {
         return solve(root,NULL,NULL);
