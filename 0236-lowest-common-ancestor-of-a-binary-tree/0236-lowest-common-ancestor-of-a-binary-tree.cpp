@@ -21,7 +21,6 @@ public:
         if(left && right){
             return root;
         }
-        return left? left : right;
-
+        return left? left:right;
     }
 };
