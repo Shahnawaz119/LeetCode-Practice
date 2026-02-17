@@ -1,29 +1,30 @@
 class Solution {
 public:
-    bool help(int i,string &s,set<string> &st,vector<int> &dp){
+    unordered_set<string> st;
+    vector<int> dp;
+    bool solve(string &s,int i){
         if(i==s.length()){
-            return 1;
+            return true;
         }
         if(dp[i]!=-1){
             return dp[i];
         }
         string temp="";
-        for(int j=i; j<s.size(); j++){
+        for(int j=i; j<s.length(); j++){
             temp+=s[j];
             if(st.find(temp)!=st.end()){
-                if(help(j+1,s,st,dp)){
+                if(solve(s,j+1)){
                     return dp[i]=true;
                 }
             }
         }
-        return dp[i] = false;
+        return dp[i]=false;
     }
     bool wordBreak(string s, vector<string>& wordDict) {
-        set<string> st;
+        dp.assign(s.length(),-1);
         for(int i=0; i<wordDict.size(); i++){
             st.insert(wordDict[i]);
         }
-        vector<int> dp(s.size(),-1);
-        return help(0,s,st,dp);
+        return solve(s,0);
     }
 };
