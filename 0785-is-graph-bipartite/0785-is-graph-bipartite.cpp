@@ -1,25 +1,26 @@
 class Solution {
 public:
-    bool helper(vector<vector<int>> &adj,int src,vector<int> &color){
-        vector<bool> vis(adj.size(),false);
+    bool isBipartite(vector<vector<int>> &graph,int src,vector<int> &color){
+        vector<bool> vis(graph.size(),false);
         queue<int> q;
-        q.push(src);
         vis[src]=true;
+        q.push(src);
         color[src]=0;
         while(!q.empty()){
             int u=q.front();
             q.pop();
-            for(int v=0; v<adj[u].size(); v++){
-                if(!vis[adj[u][v]]){
-                    vis[adj[u][v]]=true;
-                    q.push(adj[u][v]);
-                    color[adj[u][v]]=!color[u];
+            for(int v=0; v<graph[u].size(); v++){
+                if(!vis[graph[u][v]]){
+                    vis[graph[u][v]]=true;
+                    q.push(graph[u][v]);
+                    color[graph[u][v]]=!color[u];
                 }else{
-                    if(color[adj[u][v]]==color[u]){
+                    if(color[graph[u][v]]==color[u]){
                         return false;
                     }
                 }
             }
+
         }
         return true;
     }
@@ -27,9 +28,9 @@ public:
         vector<int> color(graph.size(),-1);
         for(int i=0; i<graph.size(); i++){
             if(color[i]==-1){
-               if(!helper(graph,i,color)){
+                if(!isBipartite(graph,i,color)){
                     return false;
-               }
+                }
             }
         }
         return true;
