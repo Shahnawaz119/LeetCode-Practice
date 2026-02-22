@@ -17,6 +17,7 @@ public:
                     countZero=0;
                 }else{
                     maxGap=max(maxGap,countZero+1);
+                    countZero=0;
                 }
             }
             n=n>>1;
