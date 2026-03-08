@@ -12,13 +12,18 @@ public:
     }
     string findDifferentBinaryString(vector<string>& nums) {
         n=nums.size();
-        solve("");
-        for(int i=0; i<n; i++){
-            if(st.find(nums[i])!=st.end()){
-                st.erase(nums[i]);
-            }
+        // solve("");
+        // for(int i=0; i<n; i++){
+        //     if(st.find(nums[i])!=st.end()){
+        //         st.erase(nums[i]);
+        //     }
+        // }
+        // return *st.begin();
+        string ans="";
+        for(int i=0; i<nums.size(); i++){
+            ans+=(nums[i][i]=='0' ? "1":"0");
         }
-        return *st.begin();
+        return ans;
     }
 
 };
