@@ -29,12 +29,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/2906-construct-product-matrix/) | Medium |
+| [3546-equal-sum-grid-partition-i](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/2906-construct-product-matrix/) | Medium |
+| [3546-equal-sum-grid-partition-i](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,8 +62,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2906-construct-product-matrix](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/2906-construct-product-matrix/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
+| [3546-equal-sum-grid-partition-i](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/1009-complement-of-base-10-integer/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 <!---LeetCode Topics End-->
