@@ -1,31 +1,37 @@
 class Solution {
 public:
+    typedef long long ll;
     bool canPartitionGrid(vector<vector<int>>& grid) {
-        int m = grid.size(), n = grid[0].size();
-        long long total = 0;
-        
-        for (auto &row : grid)
-            for (int x : row)
-                total += x;
-        
-        if (total % 2) return false;
-        
-        long long target = total / 2, sum = 0;
-        
-        for (int i = 0; i < m - 1; i++) {
-            for (int j = 0; j < n; j++)
-                sum += grid[i][j];
-            if (sum == target) return true;
+        int n=grid.size();
+        int m=grid[0].size();
+        vector<ll> rowSum(n,0);
+        vector<ll> colSum(m,0);
+        ll totalSum=0;
+        for(int i=0; i<n; i++){
+            for(int j=0; j<m; j++){
+                totalSum+=grid[i][j];
+                rowSum[i]+=grid[i][j];
+                colSum[j]+=grid[i][j];
+            }
         }
-        
-        sum = 0;
-        
-        for (int j = 0; j < n - 1; j++) {
-            for (int i = 0; i < m; i++)
-                sum += grid[i][j];
-            if (sum == target) return true;
+
+        if(totalSum%2!=0){
+            return false;
         }
-        
+        ll upper=0;
+        for(int i=0; i<n-1; i++){
+            upper+=rowSum[i];
+            if(upper==totalSum-upper){
+                return true;
+            }
+        }
+        ll left=0;
+        for(int i=0; i<m-1; i++){
+            left+=colSum[i];
+            if(left==totalSum-left){
+                return true;
+            }
+        }
         return false;
     }
 };
