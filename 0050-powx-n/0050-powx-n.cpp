@@ -17,7 +17,7 @@ public:
             return -1.0;
         }
         double ans=1.0;
-        int binForm=n;
+        long long binForm=n;
         if(n<0){
             x=1/x;
             binForm=-binForm;
