@@ -27,7 +27,7 @@ public:
                     }
                 }
                 j++;
-                while(j<n & nums[j]==nums[j-1]){
+                while(j<n && nums[j]==nums[j-1]){
                     j++;
                 }
             }
