@@ -1,21 +1,21 @@
 class Solution {
 public:
     int maxArea(vector<int>& height) {
-        int maxWater=0;
         int n=height.size();
-        int leftPointer=0;
-        int rightPointer=n-1;
-        while(leftPointer<rightPointer){
-            int w=rightPointer-leftPointer;
-            int ht=min(height[leftPointer],height[rightPointer]);
-            int currWater=ht*w;
-            maxWater=max(currWater,maxWater);
-            if(height[leftPointer]<height[rightPointer]){
-                leftPointer++;
+        int leftPtr=0;
+        int rightPtr=n-1;
+        int maxArea=INT_MIN;
+        while(leftPtr<rightPtr){
+            int wt=rightPtr-leftPtr;
+            int ht=min(height[leftPtr],height[rightPtr]);
+            int currArea=wt*ht;
+            maxArea=max(maxArea,currArea);
+            if(height[leftPtr]<height[rightPtr]){
+                leftPtr++;
             }else{
-                rightPointer--;
+                rightPtr--;
             }
         }
-        return maxWater;
+        return maxArea;
     }
 };
