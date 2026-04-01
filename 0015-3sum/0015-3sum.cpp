@@ -9,10 +9,10 @@ public:
             }else if(sum>target){
                 j--;
             }else{
-                if(i<j && nums[i]==nums[i+1]){
+                while(i<j && nums[i]==nums[i+1]){
                     i++;
                 }
-                if(i<j && nums[j]==nums[j-1]){
+                while(i<j && nums[j]==nums[j-1]){
                     j--;
                 }
                 ans.push_back({-target,nums[i],nums[j]});
