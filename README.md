@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0169-majority-element/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0238-product-of-array-except-self/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/2906-construct-product-matrix/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
