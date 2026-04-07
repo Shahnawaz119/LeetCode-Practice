@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0054-spiral-matrix/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0031-next-permutation/) | Medium |
 | [0053-maximum-subarray](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -55,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0079-word-search/) | Medium |
