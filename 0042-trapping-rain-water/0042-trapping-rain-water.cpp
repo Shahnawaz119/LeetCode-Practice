@@ -1,9 +1,8 @@
 class Solution {
 public:
     int trap(vector<int>& height) {
-        int leftMax[20000];
-        int rightMax[20000];
         int n=height.size();
+        vector<int> leftMax(n,0),rightMax(n,0);
         leftMax[0]=height[0];
         rightMax[n-1]=height[n-1];
         for(int i=1; i<n; i++){
