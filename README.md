@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0169-majority-element/) | Easy |
+| [0209-minimum-size-subarray-sum](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Hash Table
@@ -104,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/2906-construct-product-matrix/) | Medium |
@@ -161,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Depth-First Search
