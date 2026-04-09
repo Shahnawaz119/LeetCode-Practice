@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0031-next-permutation/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0056-merge-intervals/) | Medium |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -146,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0031-next-permutation/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Greedy
@@ -162,4 +165,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0079-word-search/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0042-trapping-rain-water/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
