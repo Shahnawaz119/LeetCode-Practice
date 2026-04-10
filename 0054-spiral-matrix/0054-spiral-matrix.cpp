@@ -25,8 +25,8 @@ public:
                 }
                 ans.push_back(matrix[i][scol]);
             }
-            srow++,scol++;
-            erow--,ecol--;
+            srow++,erow--;
+            scol++,ecol--;
         }
         return ans;
     }
