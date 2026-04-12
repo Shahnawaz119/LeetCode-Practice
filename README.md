@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0079-word-search](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0079-word-search/) | Medium |
+| [0125-valid-palindrome](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0125-valid-palindrome/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0125-valid-palindrome/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
