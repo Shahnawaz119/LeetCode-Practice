@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0079-word-search](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0125-valid-palindrome/) | Easy |
+| [0242-valid-anagram](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0242-valid-anagram/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0169-majority-element/) | Easy |
+| [0242-valid-anagram](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0242-valid-anagram/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -146,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0169-majority-element/) | Easy |
+| [0242-valid-anagram](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0242-valid-anagram/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
