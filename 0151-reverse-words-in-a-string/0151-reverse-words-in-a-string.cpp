@@ -1,8 +1,8 @@
 class Solution {
 public:
     string reverseWords(string s) {
-        vector<string> arr;
         int n=s.length();
+        vector<string> arr;
         for(int i=0; i<n; i++){
             if(s[i]!=' '){
                 int j=i;
@@ -15,9 +15,9 @@ public:
         }
         reverse(arr.begin(),arr.end());
         string ans="";
-        for(int k=0; k<arr.size(); k++){
-            ans+=arr[k];
-            if(k!=arr.size()-1){
+        for(int i=0; i<arr.size(); i++){
+            ans+=arr[i];
+            if(i!=arr.size()-1){
                 ans+=" ";
             }
         }
