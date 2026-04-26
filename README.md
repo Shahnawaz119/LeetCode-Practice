@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0242-valid-anagram/) | Easy |
+| [0443-string-compression](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0567-permutation-in-string/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0443-string-compression](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0567-permutation-in-string/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
