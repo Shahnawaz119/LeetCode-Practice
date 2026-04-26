@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0014-longest-common-prefix](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0014-longest-common-prefix/) | Easy |
 | [0079-word-search](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0031-next-permutation/) | Medium |
@@ -229,4 +231,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0493-reverse-pairs/) | Hard |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
