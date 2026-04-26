@@ -8,9 +8,9 @@ public:
         }
         sort(s1.begin(),s1.end());
         for(int i=0; i<=m-n; i++){
-            string substr=s2.substr(i,n);
-            sort(substr.begin(),substr.end());
-            if(s1==substr){
+            string newStr=s2.substr(i,n);
+            sort(newStr.begin(),newStr.end());
+            if(newStr==s1){
                 return true;
             }
         }
