@@ -4,19 +4,22 @@ public:
         int n=chars.size();
         int idx=0;
         for(int i=0; i<n; i++){
-            int ch=chars[i];
+            char ch=chars[i];
             int count=0;
             while(i<n && ch==chars[i]){
                 count++;
                 i++;
             }
             if(count==1){
-                chars[idx++]=ch;
+                chars[idx]=ch;
+                idx++;
             }else{
-                chars[idx++]=ch;
+                chars[idx]=ch;
+                idx++;
                 string str=to_string(count);
                 for(char dig:str){
-                    chars[idx++]=dig;
+                    chars[idx]=dig;
+                    idx++;
                 }
             }
             i--;
