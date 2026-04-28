@@ -3,7 +3,8 @@ public:
     string reverseWords(string s) {
         int n=s.length();
         vector<string> arr;
-        for(int i=0; i<n; i++){
+        int i=0;
+        while(i<n){
             if(s[i]!=' '){
                 int j=i;
                 while(j<n && s[j]!=' '){
@@ -12,12 +13,12 @@ public:
                 arr.push_back(s.substr(i,j-i));
                 i=j;
             }
+            i++;
         }
-        reverse(arr.begin(),arr.end());
         string ans="";
-        for(int i=0; i<arr.size(); i++){
+        for(int i=arr.size()-1; i>=0; i--){
             ans+=arr[i];
-            if(i!=arr.size()-1){
+            if(i>0){
                 ans+=" ";
             }
         }
