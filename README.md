@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0011-container-with-most-water/) | Medium |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -202,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0493-reverse-pairs](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
