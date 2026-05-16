@@ -1,26 +1,26 @@
 class Solution {
 public:
-    void solve(vector<int> &arr,int tar,vector<int>&curr,int idx,vector<vector<int>>&ans){
+    vector<vector<int>> ans;
+    void solve(vector<int>&candi,int idx,vector<int>&temp,int tar){
         if(tar<0){
             return;
         }
         if(tar==0){
-            ans.push_back(curr);
+            ans.push_back(temp); 
         }
-        for(int i=idx; i<arr.size(); i++){
-            if(i>idx && arr[i]==arr[i-1]){
+        for(int i=idx; i<candi.size(); i++){
+            if(i>idx && candi[i]==candi[i-1]){
                 continue;
             }
-            curr.push_back(arr[i]);
-            solve(arr,tar-arr[i],curr,i+1,ans);
-            curr.pop_back();
+            temp.push_back(candi[i]);
+            solve(candi,i+1,temp,tar-candi[i]);
+            temp.pop_back();
         }
     }
-    vector<vector<int>> combinationSum2(vector<int>& arr, int tar) {
-        vector<vector<int>> ans;
-        vector<int> curr;
-        sort(arr.begin(),arr.end());
-        solve(arr,tar,curr,0,ans);
+    vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
+        vector<int> temp;
+        sort(candidates.begin(),candidates.end());
+        solve(candidates,0,temp,target);
         return ans;
     }
 };
