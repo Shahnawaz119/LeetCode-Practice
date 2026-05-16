@@ -3,7 +3,7 @@ public:
     vector<vector<string>> ans;
     vector<string> temp;
     int n;
-    bool isPalindrome(string &s,int i,int j){
+    int isPalindrome(string s,int i,int j){
         while(i<=j){
             if(s[i]!=s[j]){
                 return false;
@@ -13,7 +13,7 @@ public:
         }
         return true;
     }
-    void solve(string &s,int start){
+    void solve(string s,int start){
         if(start==n){
             ans.push_back(temp);
             return;
@@ -27,7 +27,7 @@ public:
         }
     }
     vector<vector<string>> partition(string s) {
-        n=s.size();
+        n=s.length();
         solve(s,0);
         return ans;
     }
