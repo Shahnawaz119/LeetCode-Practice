@@ -1,26 +1,26 @@
 class Solution {
 public:
-    set<vector<int>> st;
-    void combinations(vector<int>&candi,int target,vector<vector<int>>&ans,vector<int>&temp,int idx){
-        if(target<0 || idx==candi.size()){
+    vector<vector<int>> ans;
+    set<vector<int>>s;
+    void solve(vector<int>&candi,int idx,int tar,vector<int>&temp){
+        if(tar<0 || idx==candi.size()){
             return;
         }
-        if(target==0){
-            if(st.find(temp)==st.end()){
+        if(tar==0){
+            if(s.find(temp)==s.end()){
                 ans.push_back(temp);
-                st.insert(temp);
+                s.insert(temp);
             }
             return;
         }
         temp.push_back(candi[idx]);
-        combinations(candi,target-candi[idx],ans,temp,idx);
+        solve(candi,idx,tar-candi[idx],temp);
         temp.pop_back();
-        combinations(candi,target,ans,temp,idx+1);
+        solve(candi,idx+1,tar,temp);
     }
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        vector<vector<int>> ans;
         vector<int> temp;
-        combinations(candidates,target,ans,temp,0);
+        solve(candidates,0,target,temp);
         return ans;
     }
 };
