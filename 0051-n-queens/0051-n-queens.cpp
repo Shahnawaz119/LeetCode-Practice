@@ -1,45 +1,50 @@
 class Solution {
 public:
-    bool isSafe(vector<string>&board,int row,int col,int n){
-        for(int j=col-1; j>=0; j--){
-            if(board[row][j]=='Q'){
+    bool check(int n,vector<string>&Board,int i,int j){
+        int row=i, col=j;
+        while(row>-1 && col>-1){
+            if(Board[row][col]=='Q'){
                 return false;
             }
+            row--;
+            col--;
         }
-        for(int i=row-1; i>=0; i--){
-            if(board[i][col]=='Q'){
+        row=i,col=j;
+        while(row>-1 && col<n){
+            if(Board[row][col]=='Q'){
                 return false;
             }
-        }
-        for(int i=row-1,j=col-1; i>=0 && j>=0; i--,j--){
-            if(board[i][j]=='Q'){
-                return false;
-            }
-        }
-        for(int i=row-1,j=col+1; i>=0 && j<n; i--,j++){
-            if(board[i][j]=='Q'){
-                return false;
-            }
+            row--;
+            col++;
         }
         return true;
     }
-    void nQueen(vector<string> &board,int row,vector<vector<string>>&ans,int n){
+    void find(int row,int n,vector<vector<string>>&ans,vector<string>&Board,vector<int>&column){
         if(row==n){
-            ans.push_back(board);
+            ans.push_back(Board);
             return;
         }
         for(int j=0; j<n; j++){
-            if(isSafe(board,row,j,n)){
-                board[row][j]='Q';
-                nQueen(board,row+1,ans,n);
-                board[row][j]='.';
+            if(column[j]==0 && check(n,Board,row,j)){
+                column[j]=1;
+                Board[row][j]='Q';
+                find(row+1,n,ans,Board,column);
+                column[j]=0;
+                Board[row][j]='.';
             }
         }
     }
     vector<vector<string>> solveNQueens(int n) {
         vector<vector<string>> ans;
-        vector<string> board(n,string(n,'.'));
-        nQueen(board,0,ans,n);
+        vector<string>Board(n);
+        for(int i=0; i<n; i++){
+            for(int j=0; j<n; j++){
+                Board[i].push_back('.');
+            }
+        }
+        vector<int> column(n,0);
+        find(0,n,ans,Board,column);
         return ans;
+
     }
 };
