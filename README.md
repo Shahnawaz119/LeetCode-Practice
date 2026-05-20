@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0037-sudoku-solver](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0042-trapping-rain-water/) | Hard |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0037-sudoku-solver/) | Hard |
 | [0054-spiral-matrix](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -120,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0037-sudoku-solver](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0037-sudoku-solver/) | Hard |
 | [0049-group-anagrams](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0076-minimum-window-substring/) | Hard |
@@ -132,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0040-combination-sum-ii/) | Medium |
 | [0051-n-queens](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0051-n-queens/) | Hard |
