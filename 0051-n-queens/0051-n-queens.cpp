@@ -1,50 +1,51 @@
 class Solution {
 public:
-    bool check(vector<string>&Board,int i,int j,int n){
-        int row=i,col=j;
+    bool check(vector<string>&board,int i,int j,int n){
+        int row=i;
+        int col=j;
         while(row>-1 && col>-1){
-            if(Board[row][col]=='Q'){
+            if(board[row][col]=='Q'){
                 return false;
             }
             row--;
             col--;
         }
-        row=i,col=j;
+        row=i;
+        col=j;
         while(row>-1 && col<n){
-            if(Board[row][col]=='Q'){
+            if(board[row][col]=='Q'){
                 return false;
             }
             row--;
             col++;
         }
-
         return true;
     }
-    void find(int n,vector<vector<string>>&ans,vector<int>&column,vector<string>&Board,int row){
+    void solve(vector<string>&board,vector<vector<string>>&ans,vector<int>&column,int row,int n){
         if(row==n){
-            ans.push_back(Board);
+            ans.push_back(board);
             return;
         }
         for(int j=0; j<n; j++){
-            if(column[j]==0 && check(Board,row,j,n)){
+            if(column[j]==0 && check(board,row,j,n)){
                 column[j]=1;
-                Board[row][j]='Q';
-                find(n,ans,column,Board,row+1);
-                Board[row][j]='.';
+                board[row][j]='Q';
+                solve(board,ans,column,row+1,n);
                 column[j]=0;
-            }
+                board[row][j]='.';
+            } 
         }
     }
     vector<vector<string>> solveNQueens(int n) {
         vector<vector<string>> ans;
-        vector<string> Board(n);
+        vector<string> board(n);
         for(int i=0; i<n; i++){
             for(int j=0; j<n; j++){
-                Board[i].push_back('.');
+                board[i].push_back('.');
             }
         }
-        vector<int>column(n,0);
-        find(n,ans,column,Board,0);
+        vector<int> column(n,0);
+        solve(board,ans,column,0,n);
         return ans;
     }
 };
