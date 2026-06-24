@@ -12,7 +12,7 @@ public:
         if(head==NULL){
             return false;
         }
-        ListNode* temp=head;
+        // ListNode* temp=head;
         ListNode* slow=head;
         ListNode* fast=head;
         bool found=false;
