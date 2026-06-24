@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0050-powx-n/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Simulation
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0050-powx-n/) | Medium |
 | [0202-happy-number](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0202-happy-number/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -303,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
