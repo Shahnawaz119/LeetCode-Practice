@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0169-majority-element](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0169-majority-element/) | Easy |
+| [0202-happy-number](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0202-happy-number/) | Easy |
 | [0242-valid-anagram](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0242-valid-anagram/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0567-permutation-in-string/) | Medium |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0050-powx-n/) | Medium |
+| [0202-happy-number](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0202-happy-number/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Divide and Conquer
@@ -204,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0202-happy-number](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0443-string-compression](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0567-permutation-in-string/) | Medium |
