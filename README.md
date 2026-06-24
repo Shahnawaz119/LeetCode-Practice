@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0050-powx-n/) | Medium |
+| [0206-reverse-linked-list](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0206-reverse-linked-list/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -309,4 +310,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0206-reverse-linked-list](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
