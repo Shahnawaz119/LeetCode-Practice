@@ -14,10 +14,16 @@ public:
         if(l1==NULL && l2==NULL){
             return NULL;
         }
+        if(l1==NULL && l2!=NULL){
+            return l2;
+        }
+        if(l1!=NULL && l2==NULL){
+            return l1;
+        }
+        ListNode* dummay=new ListNode(0);
+        ListNode* curr=dummay;
         ListNode* p=l1;
         ListNode* q=l2;
-        ListNode* dummy=new ListNode(0);
-        ListNode* curr=dummy;
         int carry=0;
         while(p!=NULL || q!=NULL){
             int sum=0;
@@ -36,11 +42,11 @@ public:
             carry=sum/10;
         }
         if(carry>0){
-            ListNode* newNode=new ListNode(carry%10);
+            ListNode* newNode=new ListNode(carry);
             curr->next=newNode;
             curr=curr->next;
         }
-        return dummy->next;
-    }
+        return dummay->next;
 
+    }
 };
