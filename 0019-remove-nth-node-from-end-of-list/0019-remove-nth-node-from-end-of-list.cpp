@@ -1,45 +1,45 @@
 /**
  * Definition for singly-linked list.
- * struct ListListNode {
+ * struct ListNode {
  *     int val;
- *     ListListNode *next;
- *     ListListNode() : val(0), next(nullptr) {}
- *     ListListNode(int x) : val(x), next(nullptr) {}
- *     ListListNode(int x, ListListNode *next) : val(x), next(next) {}
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
 class Solution {
 public:
-    void DeleteListNode(ListNode* &head,int n){
-        if(head->next==NULL && n==1){
-            ListNode* temp=head;
-            head=NULL;
-            delete temp;
-            return;
-        }
-        ListNode* temp=head;
-        int size=0;
-        while(temp!=NULL){
-            temp=temp->next;
-            size++;
-        }
-        if(size==n){
-            ListNode* temp=head;
-            head=head->next;
-            delete temp;
-            return;
-        }
-        ListNode* prevListNode=head;
-        for(int i=1; i<(size-n); i++){
-            prevListNode=prevListNode->next;
-        }
-        ListNode* toDel=prevListNode->next;
-        prevListNode->next=prevListNode->next->next;
-        delete toDel;
-        return;
-    }
     ListNode* removeNthFromEnd(ListNode* head, int n) {
-        DeleteListNode(head,n);
+        if(head==NULL){
+            return NULL;
+        }
+        if(head->next==NULL && n==1){
+            ListNode* delNode=head;
+            head=NULL;
+            delete delNode;
+            return head;
+        }
+        int size=0;
+        ListNode* temp=head;
+        while(temp){
+            size++;
+            temp=temp->next;
+        }
+        if(n==size){
+            ListNode* delNode=head;
+            head=head->next;
+            delete delNode;
+            return head;
+        }
+        ListNode* prev=head;
+        for(int i=1; i<(size-n); i++){
+            prev=prev->next;
+        }
+        ListNode* delNode=prev->next;
+        prev->next=prev->next->next;
+        delete delNode;
         return head;
+
     }
 };
