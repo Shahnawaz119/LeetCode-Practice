@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0079-word-search/) | Medium |
@@ -240,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
