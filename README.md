@@ -202,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0018-4sum/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0031-next-permutation](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0088-merge-sorted-array/) | Easy |
@@ -307,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0002-add-two-numbers/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
