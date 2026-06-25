@@ -1,32 +1,26 @@
 class Solution {
 public:
-    int Operate(int a,int b,string &str){
-        if(str=="+"){
-            return a+b;
-        }
-        if(str=="-"){
-            return a-b;
-        }
-        if(str=="*"){
-            return a*b;
-        }
-        if(str=="/"){
-            return a/b;
-        }
-        return 0;
-    }
     int evalRPN(vector<string>& tokens) {
+        int n=tokens.size();
         stack<int> st;
-        for(int i=0; i<tokens.size(); i++){
-            if(tokens[i]=="+" || tokens[i]=="-" || tokens[i]=="*" || tokens[i]=="/"){
-                int right=st.top();
+        for(int i=0; i<n; i++){
+            string token=tokens[i];
+            if(token=="+" || token=="-" || token=="/" || token=="*"){
+                int a=st.top();
                 st.pop();
-                int left=st.top();
+                int b=st.top();
                 st.pop();
-                int result=Operate(left,right,tokens[i]);
-                st.push(result);
+                if(token=="+"){
+                    st.push(a+b);
+                }else if(token=="-"){
+                    st.push(b-a);
+                }else if(token=="*"){
+                    st.push(a*b);
+                }else if(token=="/"){
+                    st.push(b/a);
+                }
             }else{
-                st.push(stoi(tokens[i]));
+                st.push(stoi(token));
             }
         }
         return st.top();
