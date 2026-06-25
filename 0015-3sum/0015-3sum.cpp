@@ -1,12 +1,12 @@
 class Solution {
 public:
-    vector<vector<int>> ans;
-    void twoSum(vector<int>&nums,int target,int i,int j){
+    vector<vector<int>>ans;
+    void solve(vector<int>&nums,int tar,int i,int j){
         while(i<j){
             int sum=nums[i]+nums[j];
-            if(sum<target){
+            if(sum<tar){
                 i++;
-            }else if(sum>target){
+            }else if(sum>tar){
                 j--;
             }else{
                 while(i<j && nums[i]==nums[i+1]){
@@ -15,7 +15,7 @@ public:
                 while(i<j && nums[j]==nums[j-1]){
                     j--;
                 }
-                ans.push_back({-target,nums[i],nums[j]});
+                ans.push_back({-tar,nums[i],nums[j]});\
                 i++;
                 j--;
             }
@@ -24,13 +24,12 @@ public:
     vector<vector<int>> threeSum(vector<int>& nums) {
         int n=nums.size();
         sort(nums.begin(),nums.end());
-        for(int i=0; i<n; i++){
-            if(i>0 && nums[i]==nums[i-1]){
+        for(int k=0; k<n; k++){
+            if(k>0 && nums[k]==nums[k-1]){
                 continue;
             }
-            int val=nums[i];
-            int target=-val;
-            twoSum(nums,target,i+1,n-1);
+            int tar=-nums[k];
+            solve(nums,tar,k+1,n-1);
         }
         return ans;
     }
