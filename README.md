@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0242-valid-anagram/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0443-string-compression](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0567-permutation-in-string/) | Medium |
 | [1392-longest-happy-prefix](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/1392-longest-happy-prefix/) | Hard |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0202-happy-number/) | Easy |
 | [0242-valid-anagram](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0242-valid-anagram/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0567-permutation-in-string/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -204,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0169-majority-element/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -263,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0387-first-unique-character-in-a-string](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
