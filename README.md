@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0169-majority-element](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0050-powx-n/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0189-rotate-array](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0202-happy-number/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -216,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0189-rotate-array](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0443-string-compression](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0443-string-compression/) | Medium |
