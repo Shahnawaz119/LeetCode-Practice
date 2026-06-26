@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0042-trapping-rain-water/) | Hard |
+| [0048-rotate-image](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0053-maximum-subarray/) | Medium |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0037-sudoku-solver/) | Hard |
+| [0048-rotate-image](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -172,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0002-add-two-numbers/) | Medium |
+| [0048-rotate-image](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0050-powx-n/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0202-happy-number](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0202-happy-number/) | Easy |
