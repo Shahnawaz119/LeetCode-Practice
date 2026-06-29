@@ -332,4 +332,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0206-reverse-linked-list/) | Easy |
+| [0328-odd-even-linked-list](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0328-odd-even-linked-list/) | Medium |
 <!---LeetCode Topics End-->
