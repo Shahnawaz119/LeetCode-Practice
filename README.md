@@ -333,4 +333,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0206-reverse-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0328-odd-even-linked-list/) | Medium |
+| [0725-split-linked-list-in-parts](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0725-split-linked-list-in-parts/) | Medium |
 <!---LeetCode Topics End-->
