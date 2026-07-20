@@ -14,6 +14,7 @@ public:
                 j--;
                 continue;
             }
+            
             if(nums[i]<=nums[mid]){
                 if(nums[i]<=target && target<=nums[mid]){
                     j=mid-1;
@@ -21,7 +22,7 @@ public:
                     i=mid+1;
                 }
             }else{
-                if(nums[mid]<=target && nums[j]>=target){
+                if(nums[mid]<=target && target<=nums[j]){
                     i=mid+1;
                 }else{
                     j=mid-1;
