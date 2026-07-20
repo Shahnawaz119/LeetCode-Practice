@@ -184,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0050-powx-n/) | Medium |
+| [0069-sqrtx](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0202-happy-number/) | Easy |
@@ -243,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
