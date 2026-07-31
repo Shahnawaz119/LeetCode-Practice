@@ -196,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0268-missing-number/) | Easy |
+| [0367-valid-perfect-square](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0367-valid-perfect-square/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Divide and Conquer
@@ -266,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0367-valid-perfect-square](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0367-valid-perfect-square/) | Easy |
 | [0493-reverse-pairs](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
