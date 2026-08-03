@@ -1,10 +1,10 @@
 class Solution {
 public:
     int lengthOfLIS(vector<int>& nums) {
+        int n=nums.size();
         unordered_set<int> s(nums.begin(),nums.end());
         vector<int> nums1(s.begin(),s.end());
         sort(nums1.begin(),nums1.end());
-        int n=nums.size();
         int m=nums1.size();
         vector<vector<int>> dp(n+1,vector<int>(m+1,0));
         for(int i=1; i<=n; i++){
