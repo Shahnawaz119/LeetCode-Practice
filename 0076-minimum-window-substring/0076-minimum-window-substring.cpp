@@ -1,42 +1,43 @@
 class Solution {
 public:
     string minWindow(string s, string t) {
-        int n=s.length();
         int total=t.length();
-        unordered_map<char,int> map;
-        for(int i=0; i<t.length(); i++){
+        int left=0;
+        int right=0;
+        int len=INT_MAX;
+        unordered_map<int,int> map;
+        for(int i=0; i<total; i++){
             map[t[i]]++;
         }
-        int start=0,end=0;
-        int ans=INT_MAX;
+        int n=s.length();
         int index=-1;
-        while(end<n){
-            map[s[end]]--;
-            if(map[s[end]]>=0){
+        while(right<n){
+            map[s[right]]--;
+            if(map[s[right]]>=0){
                 total--;
             }
 
-            while(!total && start<=end){
-                if(ans>end-start+1){
-                    ans=end-start+1;
-                    index=start;
+            while(!total && left<=right){
+                if(len>right-left+1){
+                    len=right-left+1;
+                    index=left;
                 }
-                map[s[start]]++;
-                if(map[s[start]]>0){
+                map[s[left]]++;
+                if(map[s[left]]>0){
                     total++;
                 }
-                start++;
+                left++;
             }
-            end++;
+            right++;
         }
 
         if(index==-1){
             return "";
         }
-        string result="";
-        for(int i=index; i<index+ans; i++){
-            result+=s[i];
+        string ans="";
+        for(int i=index; i<index+len; i++){
+            ans+=s[i];
         }
-        return result;
+        return ans;
     }
 };
