@@ -10,7 +10,7 @@ public:
             s2.insert(x);
         }
         vector<int> ans;
-        for(auto &x:s1){
+        for(auto x:s1){
             if(s2.find(x)!=s2.end()){
                 ans.push_back(x);
             }
