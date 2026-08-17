@@ -1,32 +1,21 @@
 class Solution {
 public:
-    void findDuplicate(string &word,unordered_map<char,int> &mp){
-        unordered_map<char,int> mp1;
-        for(int i=0; i<word.length(); i++){
-            mp1[word[i]]++;
-        }
-        for(auto it=mp.begin() ; it!=mp.end();){
-            if(mp1.find(it->first)!=mp1.end()){
-                it->second=min(it->second,mp1[it->first]);
-                it++;
-            }else{
-                it=mp.erase(it);
+    vector<string> commonChars(vector<string>& words) {
+        vector<int> common(26,INT_MAX);
+        for(auto word:words){
+            vector<int> freq(26,0);
+            for(auto ch:word){
+                freq[ch-'a']++;
+            }
+            for(int i=0; i<26; i++){
+                common[i]=min(common[i],freq[i]);
             }
         }
-    }
-    vector<string> commonChars(vector<string>& words) {
-        unordered_map<char,int> mp;
-        for(int i=0; i<words[0].length(); i++){
-            mp[words[0][i]]++;
-        }
-        for(int i=1; i<words.size(); i++){
-            string word=words[i];
-            findDuplicate(word,mp);
-        }
         vector<string> ans;
-        for(auto &it:mp){
-            for(int i=0; i<it.second;i++){
-                ans.push_back(string(1,it.first));
+        for(int i=0; i<26; i++){
+            while(common[i]>0){
+                ans.push_back(string(1,'a'+i));
+                common[i]--;
             }
         }
         return ans;
