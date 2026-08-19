@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0456-132-pattern](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0456-132-pattern/) | Medium |
 | [0493-reverse-pairs](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -288,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0367-valid-perfect-square/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0456-132-pattern](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0456-132-pattern/) | Medium |
 | [0493-reverse-pairs](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -304,12 +306,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0456-132-pattern](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0456-132-pattern/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0456-132-pattern](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0456-132-pattern/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -339,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0456-132-pattern](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0456-132-pattern/) | Medium |
 | [0493-reverse-pairs](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0493-reverse-pairs/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
