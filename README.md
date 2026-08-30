@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0456-132-pattern](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0456-132-pattern/) | Medium |
+| [0475-heaters](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0475-heaters/) | Medium |
 | [0493-reverse-pairs](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -234,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0475-heaters](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0475-heaters/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -260,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0443-string-compression](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0443-string-compression/) | Medium |
+| [0475-heaters](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0475-heaters/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0567-permutation-in-string](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0567-permutation-in-string/) | Medium |
 ## Greedy
@@ -292,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0441-arranging-coins](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0441-arranging-coins/) | Easy |
 | [0456-132-pattern](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0456-132-pattern/) | Medium |
+| [0475-heaters](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0475-heaters/) | Medium |
 | [0493-reverse-pairs](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
