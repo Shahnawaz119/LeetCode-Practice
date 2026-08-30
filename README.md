@@ -209,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0367-valid-perfect-square/) | Easy |
+| [0441-arranging-coins](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0441-arranging-coins/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Divide and Conquer
@@ -289,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0367-valid-perfect-square/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0441-arranging-coins](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0441-arranging-coins/) | Easy |
 | [0456-132-pattern](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0456-132-pattern/) | Medium |
 | [0493-reverse-pairs](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
