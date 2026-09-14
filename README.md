@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
+| [2404-most-frequent-even-element](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0567-permutation-in-string/) | Medium |
 | [1002-find-common-characters](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/1002-find-common-characters/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2404-most-frequent-even-element](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -245,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0229-majority-element-ii/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [2404-most-frequent-even-element](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/2404-most-frequent-even-element/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
