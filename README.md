@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0229-majority-element-ii](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0169-majority-element](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0202-happy-number/) | Easy |
+| [0229-majority-element-ii](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -230,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -240,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0229-majority-element-ii/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -412,4 +416,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0229-majority-element-ii/) | Medium |
 <!---LeetCode Topics End-->
