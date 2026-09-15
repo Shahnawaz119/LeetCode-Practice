@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0443-string-compression](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0443-string-compression/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0567-permutation-in-string](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0567-permutation-in-string/) | Medium |
 | [1002-find-common-characters](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/1002-find-common-characters/) | Easy |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0567-permutation-in-string/) | Medium |
 | [1002-find-common-characters](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/1002-find-common-characters/) | Easy |
@@ -247,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0475-heaters](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0475-heaters/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -255,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/2404-most-frequent-even-element/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -347,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -434,6 +439,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
