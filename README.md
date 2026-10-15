@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0213-house-robber-ii](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
