@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1002-find-common-characters](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/1002-find-common-characters/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1695-maximum-erasure-value](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/2404-most-frequent-even-element/) | Easy |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0567-permutation-in-string](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0567-permutation-in-string/) | Medium |
+| [1695-maximum-erasure-value](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -181,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/0567-permutation-in-string/) | Medium |
 | [1002-find-common-characters](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/1002-find-common-characters/) | Easy |
+| [1695-maximum-erasure-value](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Shahnawaz119/LeetCode-Practice/tree/main/2965-find-missing-and-repeated-values/) | Easy |
